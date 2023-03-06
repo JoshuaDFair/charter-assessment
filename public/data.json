@@ -1,0 +1,5994 @@
+[
+  {
+    "customerId": 1,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 54.75,
+          "date": "2022-03-30"
+        },
+        {
+          "purchaseAmount": 351.65,
+          "date": "2022-03-11"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 109.01,
+          "date": "2022-01-29"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 2,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 266.2,
+          "date": "2022-03-26"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 490.83,
+          "date": "2022-01-11"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 3,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 424.8,
+          "date": "2022-02-01"
+        },
+        {
+          "purchaseAmount": 42.5,
+          "date": "2022-02-06"
+        },
+        {
+          "purchaseAmount": 167.09,
+          "date": "2022-02-13"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 468.61,
+          "date": "2022-03-14"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 417.61,
+          "date": "2022-01-04"
+        },
+        {
+          "purchaseAmount": 214.07,
+          "date": "2022-01-04"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 4,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 281.05,
+          "date": "2022-03-08"
+        },
+        {
+          "purchaseAmount": 243.53,
+          "date": "2022-03-10"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 158.64,
+          "date": "2022-01-22"
+        },
+        {
+          "purchaseAmount": 471.5,
+          "date": "2022-01-29"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 5,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 97.31,
+          "date": "2022-02-18"
+        },
+        {
+          "purchaseAmount": 21.8,
+          "date": "2022-02-07"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 324.57,
+          "date": "2022-01-04"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 6,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 265.51,
+          "date": "2022-02-26"
+        },
+        {
+          "purchaseAmount": 278.21,
+          "date": "2022-02-12"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 57.52,
+          "date": "2022-01-28"
+        },
+        {
+          "purchaseAmount": 336.13,
+          "date": "2022-01-25"
+        },
+        {
+          "purchaseAmount": 12.56,
+          "date": "2022-01-16"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 39.69,
+          "date": "2022-03-02"
+        },
+        {
+          "purchaseAmount": 456.06,
+          "date": "2022-03-26"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 7,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 199.35,
+          "date": "2022-02-24"
+        },
+        {
+          "purchaseAmount": 249.07,
+          "date": "2022-02-20"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 481.25,
+          "date": "2022-03-24"
+        },
+        {
+          "purchaseAmount": 288.11,
+          "date": "2022-03-05"
+        },
+        {
+          "purchaseAmount": 28.53,
+          "date": "2022-03-30"
+        },
+        {
+          "purchaseAmount": 421.5,
+          "date": "2022-03-20"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 243.82,
+          "date": "2022-01-26"
+        },
+        {
+          "purchaseAmount": 462.44,
+          "date": "2022-01-28"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 8,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 262.78,
+          "date": "2022-03-04"
+        },
+        {
+          "purchaseAmount": 422.88,
+          "date": "2022-03-03"
+        },
+        {
+          "purchaseAmount": 18.23,
+          "date": "2022-03-21"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 368.06,
+          "date": "2022-01-05"
+        },
+        {
+          "purchaseAmount": 270.02,
+          "date": "2022-01-20"
+        },
+        {
+          "purchaseAmount": 456.03,
+          "date": "2022-01-29"
+        },
+        {
+          "purchaseAmount": 91.73,
+          "date": "2022-01-02"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 365.6,
+          "date": "2022-02-13"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 9,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 88.31,
+          "date": "2022-02-22"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 151.76,
+          "date": "2022-03-29"
+        },
+        {
+          "purchaseAmount": 173.13,
+          "date": "2022-03-23"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 319.99,
+          "date": "2022-01-26"
+        },
+        {
+          "purchaseAmount": 373.54,
+          "date": "2022-01-10"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 10,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 31.81,
+          "date": "2022-01-23"
+        },
+        {
+          "purchaseAmount": 70.09,
+          "date": "2022-01-24"
+        },
+        {
+          "purchaseAmount": 34.41,
+          "date": "2022-01-23"
+        },
+        {
+          "purchaseAmount": 128.35,
+          "date": "2022-01-15"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 42.4,
+          "date": "2022-03-17"
+        },
+        {
+          "purchaseAmount": 325.01,
+          "date": "2022-03-04"
+        },
+        {
+          "purchaseAmount": 367.45,
+          "date": "2022-03-23"
+        },
+        {
+          "purchaseAmount": 351.67,
+          "date": "2022-03-27"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 394.01,
+          "date": "2022-02-11"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 11,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 300.68,
+          "date": "2022-02-26"
+        },
+        {
+          "purchaseAmount": 293.8,
+          "date": "2022-02-03"
+        },
+        {
+          "purchaseAmount": 412.73,
+          "date": "2022-02-09"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 464.85,
+          "date": "2022-01-09"
+        },
+        {
+          "purchaseAmount": 97.25,
+          "date": "2022-01-04"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 12,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 378.63,
+          "date": "2022-03-28"
+        },
+        {
+          "purchaseAmount": 364.86,
+          "date": "2022-03-17"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 470.7,
+          "date": "2022-02-28"
+        },
+        {
+          "purchaseAmount": 89.71,
+          "date": "2022-02-12"
+        },
+        {
+          "purchaseAmount": 279.37,
+          "date": "2022-02-07"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 13,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 248.68,
+          "date": "2022-02-07"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 304.34,
+          "date": "2022-01-09"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 14,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 199.85,
+          "date": "2022-02-15"
+        },
+        {
+          "purchaseAmount": 450.32,
+          "date": "2022-02-05"
+        },
+        {
+          "purchaseAmount": 155.52,
+          "date": "2022-02-06"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 145.91,
+          "date": "2022-01-18"
+        },
+        {
+          "purchaseAmount": 267.07,
+          "date": "2022-01-18"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 15,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 299.13,
+          "date": "2022-02-01"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 193.34,
+          "date": "2022-01-17"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 388.68,
+          "date": "2022-03-03"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 16,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 116.13,
+          "date": "2022-03-09"
+        },
+        {
+          "purchaseAmount": 417.37,
+          "date": "2022-03-13"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 17,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 243.8,
+          "date": "2022-03-17"
+        },
+        {
+          "purchaseAmount": 275.33,
+          "date": "2022-03-22"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 18,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 323.32,
+          "date": "2022-01-10"
+        },
+        {
+          "purchaseAmount": 154.93,
+          "date": "2022-01-29"
+        },
+        {
+          "purchaseAmount": 64.67,
+          "date": "2022-01-30"
+        },
+        {
+          "purchaseAmount": 124.6,
+          "date": "2022-01-14"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 433.37,
+          "date": "2022-03-05"
+        },
+        {
+          "purchaseAmount": 171.08,
+          "date": "2022-03-12"
+        },
+        {
+          "purchaseAmount": 264.01,
+          "date": "2022-03-23"
+        },
+        {
+          "purchaseAmount": 170.44,
+          "date": "2022-03-01"
+        },
+        {
+          "purchaseAmount": 82.91,
+          "date": "2022-03-23"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 148.35,
+          "date": "2022-02-16"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 19,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 73.1,
+          "date": "2022-03-28"
+        },
+        {
+          "purchaseAmount": 110.12,
+          "date": "2022-03-03"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 369.83,
+          "date": "2022-01-20"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 335.01,
+          "date": "2022-02-04"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 20,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 325.45,
+          "date": "2022-01-23"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 126.25,
+          "date": "2022-03-12"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 21,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 478.15,
+          "date": "2022-01-14"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 31.89,
+          "date": "2022-02-12"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 252.98,
+          "date": "2022-03-27"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 22,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 493.66,
+          "date": "2022-02-03"
+        },
+        {
+          "purchaseAmount": 108.58,
+          "date": "2022-02-28"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 67.25,
+          "date": "2022-03-26"
+        },
+        {
+          "purchaseAmount": 188.55,
+          "date": "2022-03-20"
+        },
+        {
+          "purchaseAmount": 227.74,
+          "date": "2022-03-09"
+        },
+        {
+          "purchaseAmount": 81.85,
+          "date": "2022-03-22"
+        },
+        {
+          "purchaseAmount": 262.73,
+          "date": "2022-03-14"
+        },
+        {
+          "purchaseAmount": 10.81,
+          "date": "2022-03-23"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 436.78,
+          "date": "2022-01-28"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 23,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 58.54,
+          "date": "2022-03-13"
+        },
+        {
+          "purchaseAmount": 448.62,
+          "date": "2022-03-28"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 148.56,
+          "date": "2022-01-11"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 162.97,
+          "date": "2022-02-07"
+        },
+        {
+          "purchaseAmount": 400.49,
+          "date": "2022-02-21"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 24,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 281.89,
+          "date": "2022-02-20"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 25,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 402.06,
+          "date": "2022-03-07"
+        },
+        {
+          "purchaseAmount": 127.1,
+          "date": "2022-03-11"
+        },
+        {
+          "purchaseAmount": 73.69,
+          "date": "2022-03-21"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 394.01,
+          "date": "2022-01-19"
+        },
+        {
+          "purchaseAmount": 342.16,
+          "date": "2022-01-25"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 26,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 327.24,
+          "date": "2022-03-09"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 259.88,
+          "date": "2022-01-05"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 181.68,
+          "date": "2022-02-23"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 27,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 235.37,
+          "date": "2022-01-03"
+        },
+        {
+          "purchaseAmount": 65.52,
+          "date": "2022-01-04"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 106.01,
+          "date": "2022-03-03"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 28,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 317.57,
+          "date": "2022-01-17"
+        },
+        {
+          "purchaseAmount": 347.55,
+          "date": "2022-01-20"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 140.74,
+          "date": "2022-02-09"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 29,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 370.51,
+          "date": "2022-01-19"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 449.95,
+          "date": "2022-02-02"
+        },
+        {
+          "purchaseAmount": 391.63,
+          "date": "2022-02-17"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 126.67,
+          "date": "2022-03-21"
+        },
+        {
+          "purchaseAmount": 208.03,
+          "date": "2022-03-29"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 30,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 249.58,
+          "date": "2022-02-11"
+        },
+        {
+          "purchaseAmount": 369.19,
+          "date": "2022-02-28"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 422.27,
+          "date": "2022-01-05"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 31,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 176.51,
+          "date": "2022-01-14"
+        },
+        {
+          "purchaseAmount": 117.89,
+          "date": "2022-01-23"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 449.6,
+          "date": "2022-03-07"
+        },
+        {
+          "purchaseAmount": 484.25,
+          "date": "2022-03-26"
+        },
+        {
+          "purchaseAmount": 126.84,
+          "date": "2022-03-14"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 32,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 354.5,
+          "date": "2022-01-03"
+        },
+        {
+          "purchaseAmount": 378.39,
+          "date": "2022-01-28"
+        },
+        {
+          "purchaseAmount": 351.9,
+          "date": "2022-01-20"
+        },
+        {
+          "purchaseAmount": 417.48,
+          "date": "2022-01-24"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 194.04,
+          "date": "2022-02-28"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 33,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 222.75,
+          "date": "2022-02-28"
+        },
+        {
+          "purchaseAmount": 254.32,
+          "date": "2022-02-01"
+        },
+        {
+          "purchaseAmount": 488.83,
+          "date": "2022-02-07"
+        },
+        {
+          "purchaseAmount": 169.01,
+          "date": "2022-02-10"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 201.99,
+          "date": "2022-03-01"
+        },
+        {
+          "purchaseAmount": 328.66,
+          "date": "2022-03-14"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 43.88,
+          "date": "2022-01-24"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 34,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 419.53,
+          "date": "2022-03-06"
+        },
+        {
+          "purchaseAmount": 250.92,
+          "date": "2022-03-19"
+        },
+        {
+          "purchaseAmount": 15.51,
+          "date": "2022-03-02"
+        },
+        {
+          "purchaseAmount": 295.09,
+          "date": "2022-03-11"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 467.03,
+          "date": "2022-02-05"
+        },
+        {
+          "purchaseAmount": 288.26,
+          "date": "2022-02-06"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 100.54,
+          "date": "2022-01-20"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 35,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 195.15,
+          "date": "2022-03-20"
+        },
+        {
+          "purchaseAmount": 283.7,
+          "date": "2022-03-16"
+        },
+        {
+          "purchaseAmount": 79.35,
+          "date": "2022-03-26"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 39.15,
+          "date": "2022-01-14"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 93.27,
+          "date": "2022-02-08"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 36,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 145.01,
+          "date": "2022-01-08"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 383.52,
+          "date": "2022-03-03"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 313.63,
+          "date": "2022-02-10"
+        },
+        {
+          "purchaseAmount": 32.75,
+          "date": "2022-02-08"
+        },
+        {
+          "purchaseAmount": 292.16,
+          "date": "2022-02-28"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 37,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 137.58,
+          "date": "2022-01-19"
+        },
+        {
+          "purchaseAmount": 392.99,
+          "date": "2022-01-01"
+        },
+        {
+          "purchaseAmount": 452.95,
+          "date": "2022-01-03"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 109.07,
+          "date": "2022-02-11"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 104.37,
+          "date": "2022-03-17"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 38,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 425.89,
+          "date": "2022-03-25"
+        },
+        {
+          "purchaseAmount": 65.9,
+          "date": "2022-03-26"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 454.24,
+          "date": "2022-01-30"
+        },
+        {
+          "purchaseAmount": 412.58,
+          "date": "2022-01-08"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 83.57,
+          "date": "2022-02-18"
+        },
+        {
+          "purchaseAmount": 8.83,
+          "date": "2022-02-13"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 39,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 324.45,
+          "date": "2022-02-13"
+        },
+        {
+          "purchaseAmount": 203.47,
+          "date": "2022-02-08"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 205,
+          "date": "2022-03-12"
+        },
+        {
+          "purchaseAmount": 398.73,
+          "date": "2022-03-01"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 9.67,
+          "date": "2022-01-08"
+        },
+        {
+          "purchaseAmount": 470.04,
+          "date": "2022-01-25"
+        },
+        {
+          "purchaseAmount": 59.49,
+          "date": "2022-01-15"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 40,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 235.3,
+          "date": "2022-02-15"
+        },
+        {
+          "purchaseAmount": 314.51,
+          "date": "2022-02-25"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 359.36,
+          "date": "2022-01-07"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 41,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 206.77,
+          "date": "2022-03-12"
+        },
+        {
+          "purchaseAmount": 95.93,
+          "date": "2022-03-20"
+        },
+        {
+          "purchaseAmount": 22.57,
+          "date": "2022-03-06"
+        },
+        {
+          "purchaseAmount": 492.27,
+          "date": "2022-03-10"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 344.84,
+          "date": "2022-02-09"
+        },
+        {
+          "purchaseAmount": 13.93,
+          "date": "2022-02-08"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 42,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 461.37,
+          "date": "2022-02-05"
+        },
+        {
+          "purchaseAmount": 270.99,
+          "date": "2022-02-18"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 156.21,
+          "date": "2022-03-20"
+        },
+        {
+          "purchaseAmount": 70.32,
+          "date": "2022-03-18"
+        },
+        {
+          "purchaseAmount": 366.08,
+          "date": "2022-03-27"
+        },
+        {
+          "purchaseAmount": 9.29,
+          "date": "2022-03-09"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 48.13,
+          "date": "2022-01-17"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 43,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 464.03,
+          "date": "2022-01-25"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 418.63,
+          "date": "2022-03-15"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 44,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 71.54,
+          "date": "2022-03-03"
+        },
+        {
+          "purchaseAmount": 56.85,
+          "date": "2022-03-30"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 290.64,
+          "date": "2022-02-03"
+        },
+        {
+          "purchaseAmount": 72.94,
+          "date": "2022-02-17"
+        },
+        {
+          "purchaseAmount": 419.57,
+          "date": "2022-02-22"
+        },
+        {
+          "purchaseAmount": 438.47,
+          "date": "2022-02-07"
+        },
+        {
+          "purchaseAmount": 214.37,
+          "date": "2022-02-04"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 305.71,
+          "date": "2022-01-19"
+        },
+        {
+          "purchaseAmount": 337.29,
+          "date": "2022-01-08"
+        },
+        {
+          "purchaseAmount": 146.37,
+          "date": "2022-01-02"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 45,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 15.03,
+          "date": "2022-03-01"
+        },
+        {
+          "purchaseAmount": 229.17,
+          "date": "2022-03-29"
+        },
+        {
+          "purchaseAmount": 475.78,
+          "date": "2022-03-30"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 25.62,
+          "date": "2022-01-31"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 46,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 447.51,
+          "date": "2022-03-27"
+        },
+        {
+          "purchaseAmount": 230.38,
+          "date": "2022-03-08"
+        },
+        {
+          "purchaseAmount": 487.78,
+          "date": "2022-03-07"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 270.73,
+          "date": "2022-02-23"
+        },
+        {
+          "purchaseAmount": 182.07,
+          "date": "2022-02-11"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 130.44,
+          "date": "2022-01-12"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 47,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 493.98,
+          "date": "2022-03-06"
+        },
+        {
+          "purchaseAmount": 286.55,
+          "date": "2022-03-15"
+        },
+        {
+          "purchaseAmount": 136,
+          "date": "2022-03-06"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 337.6,
+          "date": "2022-02-14"
+        },
+        {
+          "purchaseAmount": 400.39,
+          "date": "2022-02-21"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 48,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 439.18,
+          "date": "2022-02-20"
+        },
+        {
+          "purchaseAmount": 371.88,
+          "date": "2022-02-09"
+        },
+        {
+          "purchaseAmount": 98.66,
+          "date": "2022-02-25"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 225.18,
+          "date": "2022-01-23"
+        },
+        {
+          "purchaseAmount": 29.8,
+          "date": "2022-01-15"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 397.5,
+          "date": "2022-03-10"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 49,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 422.85,
+          "date": "2022-01-16"
+        },
+        {
+          "purchaseAmount": 257.53,
+          "date": "2022-01-16"
+        },
+        {
+          "purchaseAmount": 73.03,
+          "date": "2022-01-29"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 145.07,
+          "date": "2022-03-18"
+        },
+        {
+          "purchaseAmount": 108.24,
+          "date": "2022-03-24"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 454.61,
+          "date": "2022-02-19"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 50,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 248.9,
+          "date": "2022-02-09"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 257.65,
+          "date": "2022-01-22"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 51,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 238.98,
+          "date": "2022-03-21"
+        },
+        {
+          "purchaseAmount": 252.8,
+          "date": "2022-03-14"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 236.42,
+          "date": "2022-02-07"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 355.02,
+          "date": "2022-01-31"
+        },
+        {
+          "purchaseAmount": 373.55,
+          "date": "2022-01-27"
+        },
+        {
+          "purchaseAmount": 353.08,
+          "date": "2022-01-14"
+        },
+        {
+          "purchaseAmount": 126.5,
+          "date": "2022-01-22"
+        },
+        {
+          "purchaseAmount": 381.05,
+          "date": "2022-01-11"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 52,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 94.52,
+          "date": "2022-01-20"
+        },
+        {
+          "purchaseAmount": 136.94,
+          "date": "2022-01-19"
+        },
+        {
+          "purchaseAmount": 161.74,
+          "date": "2022-01-24"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 53,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 307.49,
+          "date": "2022-01-23"
+        },
+        {
+          "purchaseAmount": 78.8,
+          "date": "2022-01-30"
+        },
+        {
+          "purchaseAmount": 73.16,
+          "date": "2022-01-06"
+        },
+        {
+          "purchaseAmount": 90.56,
+          "date": "2022-01-01"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 78.03,
+          "date": "2022-02-02"
+        },
+        {
+          "purchaseAmount": 3.58,
+          "date": "2022-02-19"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 67.59,
+          "date": "2022-03-08"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 54,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 381.19,
+          "date": "2022-02-17"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 281.46,
+          "date": "2022-01-07"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 202.56,
+          "date": "2022-03-13"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 55,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 430.82,
+          "date": "2022-02-28"
+        },
+        {
+          "purchaseAmount": 269.95,
+          "date": "2022-02-12"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 162.28,
+          "date": "2022-01-05"
+        },
+        {
+          "purchaseAmount": 251.9,
+          "date": "2022-01-17"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 160.78,
+          "date": "2022-03-06"
+        },
+        {
+          "purchaseAmount": 91.92,
+          "date": "2022-03-11"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 56,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 298.31,
+          "date": "2022-02-17"
+        },
+        {
+          "purchaseAmount": 369.3,
+          "date": "2022-02-10"
+        },
+        {
+          "purchaseAmount": 407.23,
+          "date": "2022-02-11"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 453.78,
+          "date": "2022-01-28"
+        },
+        {
+          "purchaseAmount": 189.62,
+          "date": "2022-01-20"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 132.6,
+          "date": "2022-03-29"
+        },
+        {
+          "purchaseAmount": 328.95,
+          "date": "2022-03-13"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 57,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 5.11,
+          "date": "2022-01-12"
+        },
+        {
+          "purchaseAmount": 398.31,
+          "date": "2022-01-31"
+        },
+        {
+          "purchaseAmount": 60.36,
+          "date": "2022-01-06"
+        },
+        {
+          "purchaseAmount": 453.32,
+          "date": "2022-01-01"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 236.48,
+          "date": "2022-03-20"
+        },
+        {
+          "purchaseAmount": 162.07,
+          "date": "2022-03-16"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 355.35,
+          "date": "2022-02-10"
+        },
+        {
+          "purchaseAmount": 428.31,
+          "date": "2022-02-28"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 58,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 86.22,
+          "date": "2022-02-24"
+        },
+        {
+          "purchaseAmount": 470.69,
+          "date": "2022-02-09"
+        },
+        {
+          "purchaseAmount": 413.52,
+          "date": "2022-02-03"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 220.82,
+          "date": "2022-03-27"
+        },
+        {
+          "purchaseAmount": 337.61,
+          "date": "2022-03-18"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 59,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 357.49,
+          "date": "2022-03-09"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 127.1,
+          "date": "2022-02-10"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 203.8,
+          "date": "2022-01-20"
+        },
+        {
+          "purchaseAmount": 5.65,
+          "date": "2022-01-27"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 60,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 86.83,
+          "date": "2022-03-07"
+        },
+        {
+          "purchaseAmount": 489.89,
+          "date": "2022-03-20"
+        },
+        {
+          "purchaseAmount": 280.74,
+          "date": "2022-03-03"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 423.04,
+          "date": "2022-01-15"
+        },
+        {
+          "purchaseAmount": 485.67,
+          "date": "2022-01-26"
+        },
+        {
+          "purchaseAmount": 305.16,
+          "date": "2022-01-11"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 167.06,
+          "date": "2022-02-12"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 61,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 83.96,
+          "date": "2022-01-20"
+        },
+        {
+          "purchaseAmount": 124.51,
+          "date": "2022-01-30"
+        },
+        {
+          "purchaseAmount": 473.07,
+          "date": "2022-01-29"
+        },
+        {
+          "purchaseAmount": 300.33,
+          "date": "2022-01-26"
+        },
+        {
+          "purchaseAmount": 274.05,
+          "date": "2022-01-02"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 227.56,
+          "date": "2022-02-02"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 165.5,
+          "date": "2022-03-04"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 62,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 480,
+          "date": "2022-01-16"
+        },
+        {
+          "purchaseAmount": 38.48,
+          "date": "2022-01-15"
+        },
+        {
+          "purchaseAmount": 467,
+          "date": "2022-01-11"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 425.71,
+          "date": "2022-02-28"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 235.86,
+          "date": "2022-03-02"
+        },
+        {
+          "purchaseAmount": 234.05,
+          "date": "2022-03-27"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 63,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 278.37,
+          "date": "2022-02-19"
+        },
+        {
+          "purchaseAmount": 378.84,
+          "date": "2022-02-23"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 316.54,
+          "date": "2022-03-21"
+        },
+        {
+          "purchaseAmount": 350.02,
+          "date": "2022-03-19"
+        },
+        {
+          "purchaseAmount": 35.32,
+          "date": "2022-03-10"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 404.12,
+          "date": "2022-01-20"
+        },
+        {
+          "purchaseAmount": 398.41,
+          "date": "2022-01-29"
+        },
+        {
+          "purchaseAmount": 46.06,
+          "date": "2022-01-06"
+        },
+        {
+          "purchaseAmount": 118.66,
+          "date": "2022-01-08"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 64,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 490.09,
+          "date": "2022-03-03"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 293.44,
+          "date": "2022-01-10"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 36.34,
+          "date": "2022-02-25"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 65,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 463.81,
+          "date": "2022-02-20"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 165.66,
+          "date": "2022-01-10"
+        },
+        {
+          "purchaseAmount": 493.47,
+          "date": "2022-01-26"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 66,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 7.96,
+          "date": "2022-01-30"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 402,
+          "date": "2022-02-02"
+        },
+        {
+          "purchaseAmount": 329.39,
+          "date": "2022-02-03"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 154.31,
+          "date": "2022-03-29"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 67,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 103.1,
+          "date": "2022-03-21"
+        },
+        {
+          "purchaseAmount": 181.35,
+          "date": "2022-03-15"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 463.66,
+          "date": "2022-01-15"
+        },
+        {
+          "purchaseAmount": 37.53,
+          "date": "2022-01-08"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 68,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 445.18,
+          "date": "2022-02-17"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 451.15,
+          "date": "2022-03-11"
+        },
+        {
+          "purchaseAmount": 9.42,
+          "date": "2022-03-25"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 69,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 269.83,
+          "date": "2022-03-09"
+        },
+        {
+          "purchaseAmount": 411.13,
+          "date": "2022-03-20"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 494.89,
+          "date": "2022-02-07"
+        },
+        {
+          "purchaseAmount": 360.6,
+          "date": "2022-02-18"
+        },
+        {
+          "purchaseAmount": 254.75,
+          "date": "2022-02-04"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 355.48,
+          "date": "2022-01-12"
+        },
+        {
+          "purchaseAmount": 377.8,
+          "date": "2022-01-09"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 70,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 200.38,
+          "date": "2022-02-11"
+        },
+        {
+          "purchaseAmount": 411.93,
+          "date": "2022-02-16"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 347.12,
+          "date": "2022-03-20"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 71,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 427.49,
+          "date": "2022-02-04"
+        },
+        {
+          "purchaseAmount": 458.51,
+          "date": "2022-02-03"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 362.39,
+          "date": "2022-01-07"
+        },
+        {
+          "purchaseAmount": 226.21,
+          "date": "2022-01-14"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 72,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 84.74,
+          "date": "2022-02-19"
+        },
+        {
+          "purchaseAmount": 91.36,
+          "date": "2022-02-24"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 58.15,
+          "date": "2022-03-23"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 112.93,
+          "date": "2022-01-19"
+        },
+        {
+          "purchaseAmount": 295.28,
+          "date": "2022-01-30"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 73,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 134.17,
+          "date": "2022-01-07"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 321.58,
+          "date": "2022-03-20"
+        },
+        {
+          "purchaseAmount": 50.22,
+          "date": "2022-03-09"
+        },
+        {
+          "purchaseAmount": 351.86,
+          "date": "2022-03-15"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 288.37,
+          "date": "2022-02-03"
+        },
+        {
+          "purchaseAmount": 124.57,
+          "date": "2022-02-10"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 74,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 197.17,
+          "date": "2022-02-20"
+        },
+        {
+          "purchaseAmount": 189.48,
+          "date": "2022-02-20"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 75,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 208.68,
+          "date": "2022-01-18"
+        },
+        {
+          "purchaseAmount": 42.57,
+          "date": "2022-01-17"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 73.32,
+          "date": "2022-03-29"
+        },
+        {
+          "purchaseAmount": 258.67,
+          "date": "2022-03-03"
+        },
+        {
+          "purchaseAmount": 413.66,
+          "date": "2022-03-02"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 402.57,
+          "date": "2022-02-18"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 76,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 7.33,
+          "date": "2022-01-21"
+        },
+        {
+          "purchaseAmount": 236.1,
+          "date": "2022-01-02"
+        },
+        {
+          "purchaseAmount": 279.11,
+          "date": "2022-01-13"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 291.91,
+          "date": "2022-03-09"
+        },
+        {
+          "purchaseAmount": 138.33,
+          "date": "2022-03-28"
+        },
+        {
+          "purchaseAmount": 153.89,
+          "date": "2022-03-10"
+        },
+        {
+          "purchaseAmount": 91.3,
+          "date": "2022-03-30"
+        },
+        {
+          "purchaseAmount": 233.9,
+          "date": "2022-03-15"
+        },
+        {
+          "purchaseAmount": 142.42,
+          "date": "2022-03-05"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 164.69,
+          "date": "2022-02-24"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 77,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 352.47,
+          "date": "2022-01-03"
+        },
+        {
+          "purchaseAmount": 338.84,
+          "date": "2022-01-21"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 463.45,
+          "date": "2022-02-26"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 78,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 200.38,
+          "date": "2022-01-14"
+        },
+        {
+          "purchaseAmount": 195.65,
+          "date": "2022-01-04"
+        },
+        {
+          "purchaseAmount": 472.36,
+          "date": "2022-01-19"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 79,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 199.24,
+          "date": "2022-02-24"
+        },
+        {
+          "purchaseAmount": 114.51,
+          "date": "2022-02-11"
+        },
+        {
+          "purchaseAmount": 367.2,
+          "date": "2022-02-16"
+        },
+        {
+          "purchaseAmount": 482.16,
+          "date": "2022-02-09"
+        },
+        {
+          "purchaseAmount": 438.23,
+          "date": "2022-02-28"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 178.32,
+          "date": "2022-01-16"
+        },
+        {
+          "purchaseAmount": 367.7,
+          "date": "2022-01-15"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 182.66,
+          "date": "2022-03-15"
+        },
+        {
+          "purchaseAmount": 30.63,
+          "date": "2022-03-10"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 80,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 141.27,
+          "date": "2022-02-09"
+        },
+        {
+          "purchaseAmount": 139.71,
+          "date": "2022-02-04"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 275.2,
+          "date": "2022-01-25"
+        },
+        {
+          "purchaseAmount": 23.82,
+          "date": "2022-01-11"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 412.72,
+          "date": "2022-03-24"
+        },
+        {
+          "purchaseAmount": 101.24,
+          "date": "2022-03-20"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 81,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 191.8,
+          "date": "2022-01-13"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 452.63,
+          "date": "2022-02-21"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 82,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 268.32,
+          "date": "2022-01-30"
+        },
+        {
+          "purchaseAmount": 368.44,
+          "date": "2022-01-03"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 58.55,
+          "date": "2022-02-04"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 83,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 156.45,
+          "date": "2022-01-17"
+        },
+        {
+          "purchaseAmount": 345.87,
+          "date": "2022-01-25"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 394.72,
+          "date": "2022-03-13"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 303.05,
+          "date": "2022-02-04"
+        },
+        {
+          "purchaseAmount": 313.94,
+          "date": "2022-02-09"
+        },
+        {
+          "purchaseAmount": 152.69,
+          "date": "2022-02-18"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 84,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 374.27,
+          "date": "2022-03-29"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 268.2,
+          "date": "2022-01-10"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 85,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 131.43,
+          "date": "2022-03-10"
+        },
+        {
+          "purchaseAmount": 32.2,
+          "date": "2022-03-16"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 480.27,
+          "date": "2022-02-23"
+        },
+        {
+          "purchaseAmount": 367.99,
+          "date": "2022-02-09"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 86,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 357.84,
+          "date": "2022-02-28"
+        },
+        {
+          "purchaseAmount": 343.97,
+          "date": "2022-02-01"
+        },
+        {
+          "purchaseAmount": 360.26,
+          "date": "2022-02-27"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 385.45,
+          "date": "2022-03-12"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 206.49,
+          "date": "2022-01-19"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 87,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 250.18,
+          "date": "2022-03-30"
+        },
+        {
+          "purchaseAmount": 394,
+          "date": "2022-03-17"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 20.91,
+          "date": "2022-02-26"
+        },
+        {
+          "purchaseAmount": 171.08,
+          "date": "2022-02-22"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 193.35,
+          "date": "2022-01-09"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 88,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 181.38,
+          "date": "2022-03-06"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 131.95,
+          "date": "2022-01-02"
+        },
+        {
+          "purchaseAmount": 294.76,
+          "date": "2022-01-05"
+        },
+        {
+          "purchaseAmount": 64.55,
+          "date": "2022-01-11"
+        },
+        {
+          "purchaseAmount": 415.24,
+          "date": "2022-01-22"
+        },
+        {
+          "purchaseAmount": 309.28,
+          "date": "2022-01-27"
+        },
+        {
+          "purchaseAmount": 194.41,
+          "date": "2022-01-20"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 115.04,
+          "date": "2022-02-10"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 89,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 139.38,
+          "date": "2022-03-08"
+        },
+        {
+          "purchaseAmount": 94.97,
+          "date": "2022-03-11"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 162.6,
+          "date": "2022-01-14"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 438.19,
+          "date": "2022-02-22"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 90,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 16.54,
+          "date": "2022-03-06"
+        },
+        {
+          "purchaseAmount": 72.17,
+          "date": "2022-03-06"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 323.22,
+          "date": "2022-02-10"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 91,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 391.22,
+          "date": "2022-03-07"
+        },
+        {
+          "purchaseAmount": 43.95,
+          "date": "2022-03-26"
+        },
+        {
+          "purchaseAmount": 301.04,
+          "date": "2022-03-16"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 281.15,
+          "date": "2022-01-27"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 165.3,
+          "date": "2022-02-07"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 92,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 26.54,
+          "date": "2022-02-18"
+        },
+        {
+          "purchaseAmount": 317.09,
+          "date": "2022-02-03"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 93,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 36.23,
+          "date": "2022-01-27"
+        },
+        {
+          "purchaseAmount": 488.23,
+          "date": "2022-01-06"
+        },
+        {
+          "purchaseAmount": 381.74,
+          "date": "2022-01-14"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 34.95,
+          "date": "2022-02-03"
+        },
+        {
+          "purchaseAmount": 364.68,
+          "date": "2022-02-23"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 423.53,
+          "date": "2022-03-10"
+        },
+        {
+          "purchaseAmount": 59.39,
+          "date": "2022-03-08"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 94,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 91.79,
+          "date": "2022-01-29"
+        },
+        {
+          "purchaseAmount": 246.07,
+          "date": "2022-01-06"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 387.1,
+          "date": "2022-03-12"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 268.59,
+          "date": "2022-02-03"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 95,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 376.07,
+          "date": "2022-01-27"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 96,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 395.27,
+          "date": "2022-02-03"
+        },
+        {
+          "purchaseAmount": 315.5,
+          "date": "2022-02-12"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 143.1,
+          "date": "2022-01-02"
+        },
+        {
+          "purchaseAmount": 92.95,
+          "date": "2022-01-30"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 182.43,
+          "date": "2022-03-07"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 97,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 257.59,
+          "date": "2022-02-02"
+        },
+        {
+          "purchaseAmount": 337.28,
+          "date": "2022-02-17"
+        },
+        {
+          "purchaseAmount": 338.15,
+          "date": "2022-02-03"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 133.15,
+          "date": "2022-01-15"
+        },
+        {
+          "purchaseAmount": 364.27,
+          "date": "2022-01-20"
+        },
+        {
+          "purchaseAmount": 311.81,
+          "date": "2022-01-19"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 239.4,
+          "date": "2022-03-09"
+        },
+        {
+          "purchaseAmount": 383.17,
+          "date": "2022-03-24"
+        },
+        {
+          "purchaseAmount": 253.75,
+          "date": "2022-03-06"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 98,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 75.23,
+          "date": "2022-02-22"
+        },
+        {
+          "purchaseAmount": 93.9,
+          "date": "2022-02-15"
+        },
+        {
+          "purchaseAmount": 272.97,
+          "date": "2022-02-01"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 99,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 165.01,
+          "date": "2022-01-16"
+        },
+        {
+          "purchaseAmount": 167.3,
+          "date": "2022-01-20"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 79.01,
+          "date": "2022-03-14"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 100,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 478.75,
+          "date": "2022-01-17"
+        },
+        {
+          "purchaseAmount": 134.05,
+          "date": "2022-01-29"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 419.26,
+          "date": "2022-03-08"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 101,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 465.53,
+          "date": "2022-03-03"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 168.56,
+          "date": "2022-01-07"
+        },
+        {
+          "purchaseAmount": 71.62,
+          "date": "2022-01-24"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 102,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 108.45,
+          "date": "2022-01-25"
+        },
+        {
+          "purchaseAmount": 411.63,
+          "date": "2022-01-01"
+        },
+        {
+          "purchaseAmount": 107.2,
+          "date": "2022-01-25"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 252.37,
+          "date": "2022-02-26"
+        },
+        {
+          "purchaseAmount": 79.45,
+          "date": "2022-02-04"
+        },
+        {
+          "purchaseAmount": 49.71,
+          "date": "2022-02-20"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 357.42,
+          "date": "2022-03-20"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 103,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 394.51,
+          "date": "2022-02-06"
+        },
+        {
+          "purchaseAmount": 13.56,
+          "date": "2022-02-14"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 260.26,
+          "date": "2022-03-09"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 104,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 8.96,
+          "date": "2022-03-26"
+        },
+        {
+          "purchaseAmount": 362.04,
+          "date": "2022-03-28"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 340.58,
+          "date": "2022-01-23"
+        },
+        {
+          "purchaseAmount": 484.56,
+          "date": "2022-01-04"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 356.4,
+          "date": "2022-02-16"
+        },
+        {
+          "purchaseAmount": 435.88,
+          "date": "2022-02-03"
+        },
+        {
+          "purchaseAmount": 254.2,
+          "date": "2022-02-26"
+        },
+        {
+          "purchaseAmount": 201.84,
+          "date": "2022-02-19"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 105,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 13.65,
+          "date": "2022-01-31"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 293.33,
+          "date": "2022-03-05"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 106,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 270.82,
+          "date": "2022-02-10"
+        },
+        {
+          "purchaseAmount": 149.74,
+          "date": "2022-02-11"
+        },
+        {
+          "purchaseAmount": 369.88,
+          "date": "2022-02-10"
+        },
+        {
+          "purchaseAmount": 191.51,
+          "date": "2022-02-21"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 315.97,
+          "date": "2022-03-28"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 107,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 123.74,
+          "date": "2022-01-11"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 184.07,
+          "date": "2022-02-11"
+        },
+        {
+          "purchaseAmount": 307.12,
+          "date": "2022-02-05"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 304.28,
+          "date": "2022-03-05"
+        },
+        {
+          "purchaseAmount": 392.97,
+          "date": "2022-03-16"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 108,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 289.36,
+          "date": "2022-03-14"
+        },
+        {
+          "purchaseAmount": 53.36,
+          "date": "2022-03-14"
+        },
+        {
+          "purchaseAmount": 5.58,
+          "date": "2022-03-10"
+        },
+        {
+          "purchaseAmount": 164.95,
+          "date": "2022-03-18"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 172.64,
+          "date": "2022-02-05"
+        },
+        {
+          "purchaseAmount": 461.31,
+          "date": "2022-02-21"
+        },
+        {
+          "purchaseAmount": 52.74,
+          "date": "2022-02-18"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 402.38,
+          "date": "2022-01-25"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 109,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 450.02,
+          "date": "2022-02-17"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 268.96,
+          "date": "2022-03-06"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 110,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 377.62,
+          "date": "2022-03-11"
+        },
+        {
+          "purchaseAmount": 382.89,
+          "date": "2022-03-04"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 324.09,
+          "date": "2022-01-19"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 111,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 134.51,
+          "date": "2022-02-22"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 75.84,
+          "date": "2022-01-14"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 112,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 219.97,
+          "date": "2022-02-16"
+        },
+        {
+          "purchaseAmount": 51.99,
+          "date": "2022-02-23"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 435.87,
+          "date": "2022-03-30"
+        },
+        {
+          "purchaseAmount": 168.14,
+          "date": "2022-03-04"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 64.03,
+          "date": "2022-01-26"
+        },
+        {
+          "purchaseAmount": 362.29,
+          "date": "2022-01-03"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 113,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 106.71,
+          "date": "2022-01-13"
+        },
+        {
+          "purchaseAmount": 348.47,
+          "date": "2022-01-11"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 114,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 256.02,
+          "date": "2022-02-08"
+        },
+        {
+          "purchaseAmount": 136.72,
+          "date": "2022-02-27"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 469.7,
+          "date": "2022-01-09"
+        },
+        {
+          "purchaseAmount": 306.79,
+          "date": "2022-01-02"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 395.81,
+          "date": "2022-03-01"
+        },
+        {
+          "purchaseAmount": 210.08,
+          "date": "2022-03-16"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 115,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 356.39,
+          "date": "2022-02-17"
+        },
+        {
+          "purchaseAmount": 191.35,
+          "date": "2022-02-04"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 116,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 31.01,
+          "date": "2022-01-09"
+        },
+        {
+          "purchaseAmount": 269.75,
+          "date": "2022-01-16"
+        },
+        {
+          "purchaseAmount": 234.49,
+          "date": "2022-01-12"
+        },
+        {
+          "purchaseAmount": 219.61,
+          "date": "2022-01-27"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 117,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 279.78,
+          "date": "2022-01-15"
+        },
+        {
+          "purchaseAmount": 219.6,
+          "date": "2022-01-29"
+        },
+        {
+          "purchaseAmount": 252.29,
+          "date": "2022-01-27"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 93.67,
+          "date": "2022-03-13"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 295.67,
+          "date": "2022-02-04"
+        },
+        {
+          "purchaseAmount": 127.07,
+          "date": "2022-02-06"
+        },
+        {
+          "purchaseAmount": 131.02,
+          "date": "2022-02-03"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 118,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 218.98,
+          "date": "2022-03-21"
+        },
+        {
+          "purchaseAmount": 369.04,
+          "date": "2022-03-10"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 335.95,
+          "date": "2022-02-07"
+        },
+        {
+          "purchaseAmount": 454.74,
+          "date": "2022-02-15"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 119,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 383.61,
+          "date": "2022-02-08"
+        },
+        {
+          "purchaseAmount": 499.84,
+          "date": "2022-02-14"
+        },
+        {
+          "purchaseAmount": 393.59,
+          "date": "2022-02-01"
+        },
+        {
+          "purchaseAmount": 310.19,
+          "date": "2022-02-24"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 36.89,
+          "date": "2022-03-01"
+        },
+        {
+          "purchaseAmount": 166.74,
+          "date": "2022-03-05"
+        },
+        {
+          "purchaseAmount": 246.49,
+          "date": "2022-03-16"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 434.61,
+          "date": "2022-01-26"
+        },
+        {
+          "purchaseAmount": 495.59,
+          "date": "2022-01-22"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 120,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 147.56,
+          "date": "2022-03-30"
+        },
+        {
+          "purchaseAmount": 175.07,
+          "date": "2022-03-12"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 482.88,
+          "date": "2022-01-07"
+        },
+        {
+          "purchaseAmount": 328.2,
+          "date": "2022-01-29"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 451.12,
+          "date": "2022-02-22"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 121,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 386.35,
+          "date": "2022-01-19"
+        },
+        {
+          "purchaseAmount": 250.34,
+          "date": "2022-01-22"
+        },
+        {
+          "purchaseAmount": 272.85,
+          "date": "2022-01-09"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 194.48,
+          "date": "2022-03-23"
+        },
+        {
+          "purchaseAmount": 347.37,
+          "date": "2022-03-07"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 122,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 366.97,
+          "date": "2022-03-08"
+        },
+        {
+          "purchaseAmount": 50.4,
+          "date": "2022-03-13"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 13.67,
+          "date": "2022-02-25"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 123,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 92.84,
+          "date": "2022-02-26"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 22.2,
+          "date": "2022-01-10"
+        },
+        {
+          "purchaseAmount": 268.53,
+          "date": "2022-01-29"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 276.38,
+          "date": "2022-03-11"
+        },
+        {
+          "purchaseAmount": 18.1,
+          "date": "2022-03-29"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 124,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 145.73,
+          "date": "2022-03-27"
+        },
+        {
+          "purchaseAmount": 474.42,
+          "date": "2022-03-16"
+        },
+        {
+          "purchaseAmount": 295.82,
+          "date": "2022-03-21"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 145.89,
+          "date": "2022-02-03"
+        },
+        {
+          "purchaseAmount": 112.12,
+          "date": "2022-02-09"
+        },
+        {
+          "purchaseAmount": 32.76,
+          "date": "2022-02-23"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 125,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 301.13,
+          "date": "2022-03-07"
+        },
+        {
+          "purchaseAmount": 424.65,
+          "date": "2022-03-19"
+        },
+        {
+          "purchaseAmount": 457.91,
+          "date": "2022-03-28"
+        },
+        {
+          "purchaseAmount": 171.57,
+          "date": "2022-03-06"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 470.99,
+          "date": "2022-02-08"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 275.99,
+          "date": "2022-01-28"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 126,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 361.9,
+          "date": "2022-02-08"
+        },
+        {
+          "purchaseAmount": 12.2,
+          "date": "2022-02-28"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 187.34,
+          "date": "2022-03-11"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 402.44,
+          "date": "2022-01-14"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 127,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 429.24,
+          "date": "2022-03-18"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 304.44,
+          "date": "2022-01-21"
+        },
+        {
+          "purchaseAmount": 496.27,
+          "date": "2022-01-11"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 453.13,
+          "date": "2022-02-11"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 128,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 222.71,
+          "date": "2022-01-07"
+        },
+        {
+          "purchaseAmount": 193.26,
+          "date": "2022-01-17"
+        },
+        {
+          "purchaseAmount": 374.15,
+          "date": "2022-01-25"
+        },
+        {
+          "purchaseAmount": 2.18,
+          "date": "2022-01-14"
+        },
+        {
+          "purchaseAmount": 468.8,
+          "date": "2022-01-20"
+        },
+        {
+          "purchaseAmount": 3.08,
+          "date": "2022-01-12"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 432.42,
+          "date": "2022-03-27"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 129,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 203.43,
+          "date": "2022-03-25"
+        },
+        {
+          "purchaseAmount": 454.77,
+          "date": "2022-03-05"
+        },
+        {
+          "purchaseAmount": 424.31,
+          "date": "2022-03-10"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 184.49,
+          "date": "2022-02-20"
+        },
+        {
+          "purchaseAmount": 183.51,
+          "date": "2022-02-09"
+        },
+        {
+          "purchaseAmount": 115.12,
+          "date": "2022-02-08"
+        },
+        {
+          "purchaseAmount": 382.59,
+          "date": "2022-02-16"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 46.1,
+          "date": "2022-01-20"
+        },
+        {
+          "purchaseAmount": 287.04,
+          "date": "2022-01-07"
+        },
+        {
+          "purchaseAmount": 161.09,
+          "date": "2022-01-14"
+        },
+        {
+          "purchaseAmount": 418.91,
+          "date": "2022-01-29"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 130,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 262.2,
+          "date": "2022-02-03"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 118.12,
+          "date": "2022-03-02"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 131,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 121.28,
+          "date": "2022-02-22"
+        },
+        {
+          "purchaseAmount": 469.27,
+          "date": "2022-02-12"
+        },
+        {
+          "purchaseAmount": 386.46,
+          "date": "2022-02-11"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 212.79,
+          "date": "2022-03-22"
+        },
+        {
+          "purchaseAmount": 326.74,
+          "date": "2022-03-10"
+        },
+        {
+          "purchaseAmount": 324.4,
+          "date": "2022-03-24"
+        },
+        {
+          "purchaseAmount": 456.26,
+          "date": "2022-03-26"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 49.24,
+          "date": "2022-01-11"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 132,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 495.49,
+          "date": "2022-02-06"
+        },
+        {
+          "purchaseAmount": 174.74,
+          "date": "2022-02-17"
+        },
+        {
+          "purchaseAmount": 293.41,
+          "date": "2022-02-25"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 133,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 216.81,
+          "date": "2022-03-08"
+        },
+        {
+          "purchaseAmount": 417.34,
+          "date": "2022-03-12"
+        },
+        {
+          "purchaseAmount": 162.15,
+          "date": "2022-03-08"
+        },
+        {
+          "purchaseAmount": 204.52,
+          "date": "2022-03-27"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 253.97,
+          "date": "2022-02-14"
+        },
+        {
+          "purchaseAmount": 279.07,
+          "date": "2022-02-06"
+        },
+        {
+          "purchaseAmount": 414.8,
+          "date": "2022-02-21"
+        },
+        {
+          "purchaseAmount": 267.75,
+          "date": "2022-02-01"
+        },
+        {
+          "purchaseAmount": 334.94,
+          "date": "2022-02-04"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 386.84,
+          "date": "2022-01-16"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 134,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 210.17,
+          "date": "2022-02-04"
+        },
+        {
+          "purchaseAmount": 135.9,
+          "date": "2022-02-08"
+        },
+        {
+          "purchaseAmount": 273.56,
+          "date": "2022-02-10"
+        },
+        {
+          "purchaseAmount": 124.18,
+          "date": "2022-02-11"
+        },
+        {
+          "purchaseAmount": 387.31,
+          "date": "2022-02-05"
+        },
+        {
+          "purchaseAmount": 108.62,
+          "date": "2022-02-22"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 254.61,
+          "date": "2022-01-15"
+        },
+        {
+          "purchaseAmount": 47.83,
+          "date": "2022-01-01"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 60.51,
+          "date": "2022-03-08"
+        },
+        {
+          "purchaseAmount": 293.55,
+          "date": "2022-03-23"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 135,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 312.61,
+          "date": "2022-02-28"
+        },
+        {
+          "purchaseAmount": 331.96,
+          "date": "2022-02-12"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 460.83,
+          "date": "2022-01-17"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 270.85,
+          "date": "2022-03-03"
+        },
+        {
+          "purchaseAmount": 191.15,
+          "date": "2022-03-01"
+        },
+        {
+          "purchaseAmount": 241.59,
+          "date": "2022-03-20"
+        },
+        {
+          "purchaseAmount": 453.38,
+          "date": "2022-03-19"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 136,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 473.58,
+          "date": "2022-02-04"
+        },
+        {
+          "purchaseAmount": 291.53,
+          "date": "2022-02-01"
+        },
+        {
+          "purchaseAmount": 320.61,
+          "date": "2022-02-04"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 31.36,
+          "date": "2022-01-12"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 455.09,
+          "date": "2022-03-25"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 137,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 202.98,
+          "date": "2022-02-13"
+        },
+        {
+          "purchaseAmount": 175.38,
+          "date": "2022-02-09"
+        },
+        {
+          "purchaseAmount": 272.98,
+          "date": "2022-02-01"
+        },
+        {
+          "purchaseAmount": 39.67,
+          "date": "2022-02-09"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 369.23,
+          "date": "2022-03-20"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 447.63,
+          "date": "2022-01-19"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 138,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 392.88,
+          "date": "2022-01-26"
+        },
+        {
+          "purchaseAmount": 258.02,
+          "date": "2022-01-08"
+        },
+        {
+          "purchaseAmount": 126.79,
+          "date": "2022-01-29"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 386.68,
+          "date": "2022-03-03"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 86.44,
+          "date": "2022-02-13"
+        },
+        {
+          "purchaseAmount": 432.76,
+          "date": "2022-02-26"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 139,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 364.94,
+          "date": "2022-01-21"
+        },
+        {
+          "purchaseAmount": 343.84,
+          "date": "2022-01-11"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 140,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 290.59,
+          "date": "2022-02-07"
+        },
+        {
+          "purchaseAmount": 129.43,
+          "date": "2022-02-07"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 68.51,
+          "date": "2022-01-04"
+        },
+        {
+          "purchaseAmount": 393.87,
+          "date": "2022-01-17"
+        },
+        {
+          "purchaseAmount": 122.1,
+          "date": "2022-01-17"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 251.13,
+          "date": "2022-03-16"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 141,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 166.69,
+          "date": "2022-02-20"
+        },
+        {
+          "purchaseAmount": 314.4,
+          "date": "2022-02-08"
+        },
+        {
+          "purchaseAmount": 147.17,
+          "date": "2022-02-12"
+        },
+        {
+          "purchaseAmount": 43.81,
+          "date": "2022-02-13"
+        },
+        {
+          "purchaseAmount": 189.63,
+          "date": "2022-02-05"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 164.95,
+          "date": "2022-03-15"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 260.46,
+          "date": "2022-01-06"
+        },
+        {
+          "purchaseAmount": 172.11,
+          "date": "2022-01-18"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 142,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 58.32,
+          "date": "2022-01-29"
+        },
+        {
+          "purchaseAmount": 26.98,
+          "date": "2022-01-30"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 260.09,
+          "date": "2022-02-22"
+        },
+        {
+          "purchaseAmount": 413.07,
+          "date": "2022-02-06"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 83.47,
+          "date": "2022-03-17"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 143,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 458.95,
+          "date": "2022-01-08"
+        },
+        {
+          "purchaseAmount": 399.39,
+          "date": "2022-01-02"
+        },
+        {
+          "purchaseAmount": 478,
+          "date": "2022-01-03"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 356.48,
+          "date": "2022-02-20"
+        },
+        {
+          "purchaseAmount": 132.23,
+          "date": "2022-02-23"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 23.84,
+          "date": "2022-03-06"
+        },
+        {
+          "purchaseAmount": 262.51,
+          "date": "2022-03-30"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 144,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 335.02,
+          "date": "2022-03-14"
+        },
+        {
+          "purchaseAmount": 370.87,
+          "date": "2022-03-17"
+        },
+        {
+          "purchaseAmount": 10.53,
+          "date": "2022-03-24"
+        },
+        {
+          "purchaseAmount": 216.12,
+          "date": "2022-03-25"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 219.59,
+          "date": "2022-02-21"
+        },
+        {
+          "purchaseAmount": 37.7,
+          "date": "2022-02-14"
+        },
+        {
+          "purchaseAmount": 77,
+          "date": "2022-02-08"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 398.77,
+          "date": "2022-01-25"
+        },
+        {
+          "purchaseAmount": 151.79,
+          "date": "2022-01-21"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 145,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 364.85,
+          "date": "2022-01-06"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 92.2,
+          "date": "2022-03-08"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 289.44,
+          "date": "2022-02-08"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 146,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 51.82,
+          "date": "2022-01-19"
+        },
+        {
+          "purchaseAmount": 367.53,
+          "date": "2022-01-25"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 103.97,
+          "date": "2022-02-13"
+        },
+        {
+          "purchaseAmount": 65.12,
+          "date": "2022-02-10"
+        },
+        {
+          "purchaseAmount": 119.67,
+          "date": "2022-02-24"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 359.76,
+          "date": "2022-03-30"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 147,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 16.91,
+          "date": "2022-01-19"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 100.21,
+          "date": "2022-03-06"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 148,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 195.57,
+          "date": "2022-03-11"
+        },
+        {
+          "purchaseAmount": 43.69,
+          "date": "2022-03-21"
+        },
+        {
+          "purchaseAmount": 177.43,
+          "date": "2022-03-23"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 44.62,
+          "date": "2022-01-25"
+        },
+        {
+          "purchaseAmount": 285.4,
+          "date": "2022-01-13"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 278.74,
+          "date": "2022-02-16"
+        },
+        {
+          "purchaseAmount": 432.92,
+          "date": "2022-02-08"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 149,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 454.48,
+          "date": "2022-01-03"
+        },
+        {
+          "purchaseAmount": 229.04,
+          "date": "2022-01-07"
+        },
+        {
+          "purchaseAmount": 210.96,
+          "date": "2022-01-03"
+        },
+        {
+          "purchaseAmount": 475.7,
+          "date": "2022-01-09"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 43.9,
+          "date": "2022-03-22"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 438.49,
+          "date": "2022-02-18"
+        },
+        {
+          "purchaseAmount": 272.86,
+          "date": "2022-02-09"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 150,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 48.53,
+          "date": "2022-01-01"
+        },
+        {
+          "purchaseAmount": 421.7,
+          "date": "2022-01-25"
+        },
+        {
+          "purchaseAmount": 126.03,
+          "date": "2022-01-20"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 374.48,
+          "date": "2022-02-27"
+        },
+        {
+          "purchaseAmount": 70.4,
+          "date": "2022-02-01"
+        },
+        {
+          "purchaseAmount": 28.99,
+          "date": "2022-02-12"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 317.49,
+          "date": "2022-03-21"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 151,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 193.66,
+          "date": "2022-03-28"
+        },
+        {
+          "purchaseAmount": 143.29,
+          "date": "2022-03-09"
+        },
+        {
+          "purchaseAmount": 70,
+          "date": "2022-03-30"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 271.64,
+          "date": "2022-01-28"
+        },
+        {
+          "purchaseAmount": 245.72,
+          "date": "2022-01-21"
+        },
+        {
+          "purchaseAmount": 452.46,
+          "date": "2022-01-23"
+        },
+        {
+          "purchaseAmount": 43.34,
+          "date": "2022-01-07"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 210.82,
+          "date": "2022-02-20"
+        },
+        {
+          "purchaseAmount": 26.56,
+          "date": "2022-02-21"
+        },
+        {
+          "purchaseAmount": 124.32,
+          "date": "2022-02-19"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 152,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 170.12,
+          "date": "2022-02-23"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 344.83,
+          "date": "2022-03-30"
+        },
+        {
+          "purchaseAmount": 363.8,
+          "date": "2022-03-16"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 151.64,
+          "date": "2022-01-30"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 153,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 307.16,
+          "date": "2022-01-30"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 36.48,
+          "date": "2022-02-18"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 154,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 366.39,
+          "date": "2022-03-29"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 106.72,
+          "date": "2022-01-04"
+        },
+        {
+          "purchaseAmount": 55.88,
+          "date": "2022-01-11"
+        },
+        {
+          "purchaseAmount": 307.26,
+          "date": "2022-01-28"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 158.19,
+          "date": "2022-02-26"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 155,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 180.31,
+          "date": "2022-01-24"
+        },
+        {
+          "purchaseAmount": 214.09,
+          "date": "2022-01-19"
+        },
+        {
+          "purchaseAmount": 52.48,
+          "date": "2022-01-21"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 361.17,
+          "date": "2022-02-02"
+        },
+        {
+          "purchaseAmount": 325.38,
+          "date": "2022-02-07"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 379.14,
+          "date": "2022-03-25"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 156,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 49.16,
+          "date": "2022-02-04"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 103.46,
+          "date": "2022-03-08"
+        },
+        {
+          "purchaseAmount": 461.88,
+          "date": "2022-03-21"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 157,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 268.98,
+          "date": "2022-01-06"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 179.38,
+          "date": "2022-03-26"
+        },
+        {
+          "purchaseAmount": 484.1,
+          "date": "2022-03-21"
+        },
+        {
+          "purchaseAmount": 362.2,
+          "date": "2022-03-18"
+        },
+        {
+          "purchaseAmount": 383.5,
+          "date": "2022-03-01"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 130.2,
+          "date": "2022-02-03"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 158,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 496.92,
+          "date": "2022-03-23"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 97.29,
+          "date": "2022-02-02"
+        },
+        {
+          "purchaseAmount": 458.76,
+          "date": "2022-02-26"
+        },
+        {
+          "purchaseAmount": 339.24,
+          "date": "2022-02-22"
+        },
+        {
+          "purchaseAmount": 154.48,
+          "date": "2022-02-08"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 159,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 34.32,
+          "date": "2022-01-29"
+        },
+        {
+          "purchaseAmount": 24.81,
+          "date": "2022-01-26"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 210.52,
+          "date": "2022-02-13"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 40.93,
+          "date": "2022-03-06"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 160,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 41.79,
+          "date": "2022-03-03"
+        },
+        {
+          "purchaseAmount": 215.19,
+          "date": "2022-03-23"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 170.06,
+          "date": "2022-01-14"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 446.24,
+          "date": "2022-02-21"
+        },
+        {
+          "purchaseAmount": 32.38,
+          "date": "2022-02-10"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 161,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 93.22,
+          "date": "2022-02-05"
+        },
+        {
+          "purchaseAmount": 242.99,
+          "date": "2022-02-17"
+        },
+        {
+          "purchaseAmount": 395.98,
+          "date": "2022-02-27"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 479.25,
+          "date": "2022-01-29"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 410.15,
+          "date": "2022-03-15"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 162,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 376.09,
+          "date": "2022-03-08"
+        },
+        {
+          "purchaseAmount": 89.96,
+          "date": "2022-03-01"
+        },
+        {
+          "purchaseAmount": 241.73,
+          "date": "2022-03-10"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 196,
+          "date": "2022-01-30"
+        },
+        {
+          "purchaseAmount": 19.1,
+          "date": "2022-01-28"
+        },
+        {
+          "purchaseAmount": 7.39,
+          "date": "2022-01-22"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 262.49,
+          "date": "2022-02-11"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 163,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 113.19,
+          "date": "2022-01-24"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 164,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 16.42,
+          "date": "2022-02-22"
+        },
+        {
+          "purchaseAmount": 3.06,
+          "date": "2022-02-04"
+        },
+        {
+          "purchaseAmount": 472.67,
+          "date": "2022-02-13"
+        },
+        {
+          "purchaseAmount": 320.01,
+          "date": "2022-02-14"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 165.58,
+          "date": "2022-03-08"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 343.25,
+          "date": "2022-01-09"
+        },
+        {
+          "purchaseAmount": 322.49,
+          "date": "2022-01-13"
+        },
+        {
+          "purchaseAmount": 342.36,
+          "date": "2022-01-23"
+        },
+        {
+          "purchaseAmount": 208.94,
+          "date": "2022-01-07"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 165,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 130.14,
+          "date": "2022-01-14"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 460.4,
+          "date": "2022-03-24"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 166,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 294.31,
+          "date": "2022-03-13"
+        },
+        {
+          "purchaseAmount": 290.98,
+          "date": "2022-03-24"
+        },
+        {
+          "purchaseAmount": 247.31,
+          "date": "2022-03-27"
+        },
+        {
+          "purchaseAmount": 473.55,
+          "date": "2022-03-02"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 335.37,
+          "date": "2022-01-13"
+        },
+        {
+          "purchaseAmount": 286.76,
+          "date": "2022-01-29"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 167,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 349.92,
+          "date": "2022-01-12"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 168,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 221.03,
+          "date": "2022-01-29"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 123.13,
+          "date": "2022-03-12"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 169,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 337.18,
+          "date": "2022-01-03"
+        },
+        {
+          "purchaseAmount": 197.44,
+          "date": "2022-01-09"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 170,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 77.23,
+          "date": "2022-01-01"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 349.5,
+          "date": "2022-03-05"
+        },
+        {
+          "purchaseAmount": 149.1,
+          "date": "2022-03-21"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 189.62,
+          "date": "2022-02-19"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 171,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 66.97,
+          "date": "2022-03-25"
+        },
+        {
+          "purchaseAmount": 109.04,
+          "date": "2022-03-17"
+        },
+        {
+          "purchaseAmount": 76.87,
+          "date": "2022-03-21"
+        },
+        {
+          "purchaseAmount": 303.79,
+          "date": "2022-03-12"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 457.44,
+          "date": "2022-02-24"
+        },
+        {
+          "purchaseAmount": 496.14,
+          "date": "2022-02-24"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 172,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 493.51,
+          "date": "2022-01-12"
+        },
+        {
+          "purchaseAmount": 357.45,
+          "date": "2022-01-31"
+        },
+        {
+          "purchaseAmount": 215.63,
+          "date": "2022-01-28"
+        },
+        {
+          "purchaseAmount": 103.72,
+          "date": "2022-01-12"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 225.48,
+          "date": "2022-03-28"
+        },
+        {
+          "purchaseAmount": 53.77,
+          "date": "2022-03-10"
+        },
+        {
+          "purchaseAmount": 440.03,
+          "date": "2022-03-23"
+        },
+        {
+          "purchaseAmount": 17.23,
+          "date": "2022-03-23"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 109.93,
+          "date": "2022-02-10"
+        },
+        {
+          "purchaseAmount": 404.34,
+          "date": "2022-02-25"
+        },
+        {
+          "purchaseAmount": 150.59,
+          "date": "2022-02-09"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 173,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 60.81,
+          "date": "2022-01-04"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 159.17,
+          "date": "2022-03-27"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 174,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 30.25,
+          "date": "2022-03-24"
+        },
+        {
+          "purchaseAmount": 405.02,
+          "date": "2022-03-18"
+        },
+        {
+          "purchaseAmount": 400.83,
+          "date": "2022-03-01"
+        },
+        {
+          "purchaseAmount": 102.56,
+          "date": "2022-03-28"
+        },
+        {
+          "purchaseAmount": 135.5,
+          "date": "2022-03-04"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 467.92,
+          "date": "2022-02-28"
+        },
+        {
+          "purchaseAmount": 339.62,
+          "date": "2022-02-10"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 115.43,
+          "date": "2022-01-08"
+        },
+        {
+          "purchaseAmount": 397.56,
+          "date": "2022-01-23"
+        },
+        {
+          "purchaseAmount": 121.74,
+          "date": "2022-01-20"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 175,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 205.69,
+          "date": "2022-01-10"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 443.3,
+          "date": "2022-03-20"
+        },
+        {
+          "purchaseAmount": 465.25,
+          "date": "2022-03-13"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 304,
+          "date": "2022-02-28"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 176,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 467.09,
+          "date": "2022-03-20"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 280.58,
+          "date": "2022-02-09"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 177,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 89.47,
+          "date": "2022-02-11"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 408.03,
+          "date": "2022-03-28"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 69.87,
+          "date": "2022-01-30"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 178,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 263.29,
+          "date": "2022-02-20"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 88.8,
+          "date": "2022-01-13"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 179,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 94.63,
+          "date": "2022-02-06"
+        },
+        {
+          "purchaseAmount": 487.71,
+          "date": "2022-02-26"
+        },
+        {
+          "purchaseAmount": 195.25,
+          "date": "2022-02-10"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 261.14,
+          "date": "2022-03-14"
+        },
+        {
+          "purchaseAmount": 280.03,
+          "date": "2022-03-27"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 61.01,
+          "date": "2022-01-25"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 180,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 401.94,
+          "date": "2022-01-26"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 103.34,
+          "date": "2022-02-21"
+        },
+        {
+          "purchaseAmount": 107.26,
+          "date": "2022-02-25"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 365.64,
+          "date": "2022-03-10"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 181,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 86.23,
+          "date": "2022-03-11"
+        },
+        {
+          "purchaseAmount": 41.31,
+          "date": "2022-03-20"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 178.74,
+          "date": "2022-02-12"
+        },
+        {
+          "purchaseAmount": 493.79,
+          "date": "2022-02-12"
+        },
+        {
+          "purchaseAmount": 363.32,
+          "date": "2022-02-19"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 49.86,
+          "date": "2022-01-25"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 182,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 369.37,
+          "date": "2022-02-20"
+        },
+        {
+          "purchaseAmount": 91.82,
+          "date": "2022-02-27"
+        },
+        {
+          "purchaseAmount": 467.39,
+          "date": "2022-02-05"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 204,
+          "date": "2022-03-23"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 185,
+          "date": "2022-01-28"
+        },
+        {
+          "purchaseAmount": 449.24,
+          "date": "2022-01-13"
+        },
+        {
+          "purchaseAmount": 468.4,
+          "date": "2022-01-20"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 183,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 168.11,
+          "date": "2022-03-03"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 393.32,
+          "date": "2022-02-11"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 184,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 421.51,
+          "date": "2022-03-04"
+        },
+        {
+          "purchaseAmount": 168.2,
+          "date": "2022-03-14"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 49.64,
+          "date": "2022-02-07"
+        },
+        {
+          "purchaseAmount": 436.94,
+          "date": "2022-02-14"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 185,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 144.95,
+          "date": "2022-02-27"
+        },
+        {
+          "purchaseAmount": 479.21,
+          "date": "2022-02-18"
+        },
+        {
+          "purchaseAmount": 198.6,
+          "date": "2022-02-17"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 425.57,
+          "date": "2022-01-27"
+        },
+        {
+          "purchaseAmount": 58.17,
+          "date": "2022-01-14"
+        },
+        {
+          "purchaseAmount": 350.32,
+          "date": "2022-01-08"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 305,
+          "date": "2022-03-28"
+        },
+        {
+          "purchaseAmount": 169.38,
+          "date": "2022-03-12"
+        },
+        {
+          "purchaseAmount": 342.28,
+          "date": "2022-03-15"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 186,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 181.58,
+          "date": "2022-02-09"
+        },
+        {
+          "purchaseAmount": 249.2,
+          "date": "2022-02-22"
+        },
+        {
+          "purchaseAmount": 351.2,
+          "date": "2022-02-13"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 438.71,
+          "date": "2022-03-23"
+        },
+        {
+          "purchaseAmount": 273.11,
+          "date": "2022-03-29"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 141.6,
+          "date": "2022-01-24"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 187,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 421.76,
+          "date": "2022-01-28"
+        },
+        {
+          "purchaseAmount": 258.84,
+          "date": "2022-01-30"
+        },
+        {
+          "purchaseAmount": 142.15,
+          "date": "2022-01-11"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 86.67,
+          "date": "2022-02-13"
+        },
+        {
+          "purchaseAmount": 475.04,
+          "date": "2022-02-08"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 188,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 440.34,
+          "date": "2022-03-18"
+        },
+        {
+          "purchaseAmount": 487.08,
+          "date": "2022-03-25"
+        },
+        {
+          "purchaseAmount": 33.25,
+          "date": "2022-03-28"
+        },
+        {
+          "purchaseAmount": 54.85,
+          "date": "2022-03-28"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 277.13,
+          "date": "2022-01-20"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 189,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 191.98,
+          "date": "2022-03-28"
+        },
+        {
+          "purchaseAmount": 113.84,
+          "date": "2022-03-08"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 288,
+          "date": "2022-02-04"
+        },
+        {
+          "purchaseAmount": 307.63,
+          "date": "2022-02-19"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 190,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 64.99,
+          "date": "2022-02-22"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 45.7,
+          "date": "2022-01-26"
+        },
+        {
+          "purchaseAmount": 58.15,
+          "date": "2022-01-12"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 479.3,
+          "date": "2022-03-19"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 191,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 429.13,
+          "date": "2022-01-20"
+        },
+        {
+          "purchaseAmount": 441.35,
+          "date": "2022-01-01"
+        },
+        {
+          "purchaseAmount": 207.34,
+          "date": "2022-01-21"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 455.08,
+          "date": "2022-03-16"
+        },
+        {
+          "purchaseAmount": 79.83,
+          "date": "2022-03-20"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 0.2,
+          "date": "2022-02-03"
+        },
+        {
+          "purchaseAmount": 52.43,
+          "date": "2022-02-17"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 192,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 61.93,
+          "date": "2022-03-27"
+        },
+        {
+          "purchaseAmount": 18.39,
+          "date": "2022-03-30"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 472.49,
+          "date": "2022-01-31"
+        },
+        {
+          "purchaseAmount": 22.38,
+          "date": "2022-01-28"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 323.68,
+          "date": "2022-02-21"
+        },
+        {
+          "purchaseAmount": 401.93,
+          "date": "2022-02-26"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 193,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 160.91,
+          "date": "2022-03-13"
+        },
+        {
+          "purchaseAmount": 171.83,
+          "date": "2022-03-04"
+        },
+        {
+          "purchaseAmount": 299.52,
+          "date": "2022-03-12"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 91.67,
+          "date": "2022-01-24"
+        },
+        {
+          "purchaseAmount": 275.64,
+          "date": "2022-01-17"
+        },
+        {
+          "purchaseAmount": 172.35,
+          "date": "2022-01-30"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 88,
+          "date": "2022-02-18"
+        },
+        {
+          "purchaseAmount": 275.13,
+          "date": "2022-02-16"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 194,
+    "transactions": {
+      "2022-02": [
+        {
+          "purchaseAmount": 318.33,
+          "date": "2022-02-14"
+        },
+        {
+          "purchaseAmount": 474.35,
+          "date": "2022-02-17"
+        },
+        {
+          "purchaseAmount": 128.64,
+          "date": "2022-02-13"
+        }
+      ],
+      "2022-03": [
+        {
+          "purchaseAmount": 494.57,
+          "date": "2022-03-23"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 439.85,
+          "date": "2022-01-17"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 195,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 358.68,
+          "date": "2022-01-22"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 196,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 183.05,
+          "date": "2022-01-07"
+        },
+        {
+          "purchaseAmount": 308.98,
+          "date": "2022-01-02"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 197,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 13.42,
+          "date": "2022-03-02"
+        },
+        {
+          "purchaseAmount": 27.32,
+          "date": "2022-03-09"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 376.01,
+          "date": "2022-02-14"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 157.98,
+          "date": "2022-01-03"
+        },
+        {
+          "purchaseAmount": 350.94,
+          "date": "2022-01-21"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 198,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 471.78,
+          "date": "2022-03-04"
+        },
+        {
+          "purchaseAmount": 168.02,
+          "date": "2022-03-23"
+        },
+        {
+          "purchaseAmount": 276.6,
+          "date": "2022-03-09"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 67.89,
+          "date": "2022-02-28"
+        },
+        {
+          "purchaseAmount": 86.76,
+          "date": "2022-02-19"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 388.63,
+          "date": "2022-01-10"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 199,
+    "transactions": {
+      "2022-03": [
+        {
+          "purchaseAmount": 328.56,
+          "date": "2022-03-10"
+        }
+      ],
+      "2022-01": [
+        {
+          "purchaseAmount": 462.08,
+          "date": "2022-01-15"
+        },
+        {
+          "purchaseAmount": 298.21,
+          "date": "2022-01-23"
+        },
+        {
+          "purchaseAmount": 17.04,
+          "date": "2022-01-10"
+        }
+      ]
+    }
+  },
+  {
+    "customerId": 200,
+    "transactions": {
+      "2022-01": [
+        {
+          "purchaseAmount": 234.74,
+          "date": "2022-01-31"
+        },
+        {
+          "purchaseAmount": 338.51,
+          "date": "2022-01-03"
+        }
+      ],
+      "2022-02": [
+        {
+          "purchaseAmount": 364.25,
+          "date": "2022-02-24"
+        },
+        {
+          "purchaseAmount": 388.75,
+          "date": "2022-02-11"
+        },
+        {
+          "purchaseAmount": 492.97,
+          "date": "2022-02-20"
+        },
+        {
+          "purchaseAmount": 439.29,
+          "date": "2022-02-20"
+        }
+      ]
+    }
+  }
+]

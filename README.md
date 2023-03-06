@@ -1,6 +1,31 @@
-# Getting Started with Create React App
+# Rewards Program Calculator
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a React application that calculates reward points earned by customers based on their recorded purchases during a three month period.
+
+## Installation and Usage
+1. Clone the repository or download the ZIP file and extract the contents.
+2. Open the project directory in your terminal and run npm install to install the necessary dependencies.
+3. To start the application, run npm start.
+4. Open your web browser and navigate to http://localhost:3000/ to see the application running.
+
+## Functionality
+
+The application reads transaction data from a JSON file and calculates the reward points earned by each customer for each month, as well as the total points earned over the three month period. The calculated points are displayed in a table with the customer ID, points earned per month, and total points earned.
+
+## Technologies Used
+
+- React
+- JavaScript
+- HTML/CSS
+
+### Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+### License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
 ## Available Scripts
 
