@@ -13,9 +13,9 @@ const generateCustomerData = () => {
 
     for (let i = 0; i < 1000; i++) {
         const customerId = generateCustomerId();
-        const purchaseAmount = Number((Math.random() * 500).toFixed(2)); // generate a random purchase amount between 0 and 200
+        const purchaseAmount = Number((Math.random() * 500).toFixed(2));
         const date = new Date(startDate.getTime() + Math.random() * days * 24 * 60 * 60 * 1000);
-        const month = date.toISOString().slice(0, 7); // get month in ISO string format (YYYY-MM)
+        const month = date.toISOString().slice(0, 7);
         if (!customers[customerId]) {
             customers[customerId] = { id: customerId, transactions: {} };
         }
@@ -35,7 +35,7 @@ const CreateJsonFileButton = () => {
         setIsGenerating(true);
         const filename = 'customer-data.json';
         const customerData = generateCustomerData();
-        const json = JSON.stringify(customerData, null, 2); // convert customer data to JSON format with pretty printing
+        const json = JSON.stringify(customerData, null, 2);
         const blob = new Blob([json], { type: 'application/json' });
         const href = URL.createObjectURL(blob);
         try {
