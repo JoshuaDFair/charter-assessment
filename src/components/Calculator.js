@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, {useEffect, useState} from 'react';
 import './Calculator.css';
 
 const Calculator = () => {
@@ -50,8 +50,7 @@ const Calculator = () => {
 
                     for (const month in customer.transactions) {
                         const transactions = customer.transactions[month];
-                        const points = calculateMonthlyPoints(transactions);
-                        customerPoints[customerId][month] = points;
+                        customerPoints[customerId][month] = calculateMonthlyPoints(transactions);
                     }
                 }
 
